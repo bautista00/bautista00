@@ -1,5 +1,7 @@
 # 💫 About Me:
-Java Backend Developer | Spring Boot | Estudiante de Software UADE<br>
+Software Development student at UADE with a strong focus on Backend development. I combine coding skills in Java Spring Boot and JavaScript with a solid understanding of cloud infrastructure.
+
+I am passionate about building scalable solutions and eager to apply my technical background to solve real-world problems in a Developer or DevOps role.<br>
 
 
 ## 🌐 Socials:
